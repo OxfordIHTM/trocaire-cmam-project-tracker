@@ -3,5 +3,4 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This repository is for tracking progress of the Trōcaire Somalia Community-based Management of Acute Malnutrition (CMAM) programme.
-
+This repository is for tracking progress of the Trōcaire Somalia Community-based Management of Acute Malnutrition (CMAM) programme evaluation project.
